@@ -1,3 +1,48 @@
 # Git Course
 # 
-# Treinando o Git
+#
+
+<html>
+<head>
+      <title>Execercio</title>
+      <meta name="author" content="Luiz Eduardo">
+      <meta name="description" content="ATV 1...">
+      <meta name="keywords" content="aprendizagem, html, páginas">
+</head>
+
+<body>
+
+<table cellpadding="10" cellspacing="6" align="center" bordercolorlight="red" bordercolordark="yellow" border="10" style="width:50%">
+
+<tr>
+  <th bgcolor="#808080" align="center" colspan="10">Tabela de produtos de informática</th>
+</tr>
+<tr>
+  <th bgcolor="#808080" width:"25%" style="color:#0000FF">Produto</th>
+  <th bgcolor="#808080" align="left" width="25%" style="color:#0000FF">Preço</th>
+  <th bgcolor="#808080" align="center" width="25%" style="color:#0000FF">Quantidade</th>
+</tr>
+<tr>
+  <th>Pen drive 16GB</th>
+  <td>R$29,50</td>
+  <td>1</td>
+</tr>
+<tr>
+  <th>HD Externo 1TB</th>
+  <td>R$244,90</td>
+  <td>2</td>
+</tr>
+<tr>
+  <th>Total</th>
+  <td>R$519,30</td>
+</table>
+
+
+
+
+
+
+
+
+</body>
+</html>
